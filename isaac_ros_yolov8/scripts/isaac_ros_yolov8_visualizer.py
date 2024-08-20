@@ -32,6 +32,7 @@ from vision_msgs.msg import Detection2DArray
 names = {
         0: 'box',
         1: 'open box',
+        2: 'person',
 }
 
 
