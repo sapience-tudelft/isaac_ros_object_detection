@@ -44,3 +44,4 @@ def generate_launch_description():
             arguments=['/yolov8_processed_image']
         )
     ])
+    
